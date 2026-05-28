@@ -1,0 +1,14 @@
+{
+  "name": "Emby专用图标包",
+  "description": "自制 Emby 图标配置",
+  "icons": [
+    {
+      "name": "Rysu-emby",
+      "url": "https://cdn.jsdelivr.net/gh/xhy9974/emby@main/IMG_20260527_231745.png"
+    },
+    {
+      "name": "Lysu-emby",
+      "url": "https://cdn.jsdelivr.net/gh/xhy9974/emby@main/retouch_2026052808430241.png"
+    }
+  ]
+}
